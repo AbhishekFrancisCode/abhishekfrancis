@@ -1,8 +1,7 @@
-# abhishekfrancis
 # Hi 👋, I'm Abhishek Francis
 
 💻 Full Stack Developer  
-🚀 4+ years experience  
+🚀 5+ years experience  
 🌍 Building web applications and backend systems
 
 ---
@@ -45,7 +44,7 @@
 
 ## 📊 GitHub Stats
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekfrancis&show_icons=true)
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekFrancisCode&show_icons=true)
 
 ---
 
