@@ -86,7 +86,16 @@ Focus: **asynchronous processing and reliable messaging**
 
 ## 📊 GitHub Stats
 
-![Abhishek's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AbhishekFrancisCode&show_icons=true&theme=github_dark&count_private=true&cache_seconds=86400)
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AbhishekFrancisCode&theme=github-dark)
+
+## 🚀 What I Do
+
+- Build scalable microservices using Go & gRPC  
+- Design event-driven systems with Kafka & RabbitMQ  
+- Develop full-stack apps with Next.js & Node.js  
+- Build cross-platform apps using Flutter  
 
 ---
 
