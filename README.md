@@ -86,7 +86,7 @@ Focus: **asynchronous processing and reliable messaging**
 
 ## 📊 GitHub Stats
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekFrancisCode&show_icons=true)
+![Abhishek's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AbhishekFrancisCode&show_icons=true&theme=github_dark&count_private=true)
 
 ---
 
